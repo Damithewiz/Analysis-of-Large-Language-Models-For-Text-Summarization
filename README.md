@@ -3,6 +3,9 @@
 ## Running the Experiments 
 This project includes code for fine-tuning and evaluating various transformer models for text summarization. Below are instructions on how to run these files: 
 
+## Dataset
+Both datasets used "BBC News Dataset" and the "CNN/Daily Mail Dataset" are both available on Kaggle & Huggingface
+
 ### Fine-Tuning the Models 
 Each model is fine-tuned and trained separately using the provided datasets (BBC News and CNN/DailyMail) meaning there are 2 different files for the 2 different datasets. The notebook files are named accordingly: 
 1. BART_tuning_BBCNews.ipynb
