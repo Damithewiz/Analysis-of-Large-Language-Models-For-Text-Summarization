@@ -1,4 +1,4 @@
-# Analysis-of-Large-Language-Models-For-Text-Summarization
+# A Comparative Analysis of Large Language Models For Text Summarization
 
 ## Running the Experiments 
 This project includes code for fine-tuning and evaluating various transformer models for text summarization. Below are instructions on how to run these files: 
